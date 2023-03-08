@@ -1,0 +1,175 @@
+﻿@using Quanlicaan.Models.Session
+@using System
+@using System.Data
+@using PagedList.Mvc
+@model PagedList.IPagedList<Quanlicaan.Models.Framework.NhanVien>
+
+@{
+    ViewBag.Title = "Show";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var info = (UserSession)Session["UserSession"];
+    List<SelectListItem> list = new List<SelectListItem>();
+    foreach (DataRow dr in ViewBag.Phongbans.Rows)
+    {
+        SelectListItem item = new SelectListItem();
+        item.Value = dr["ID"].ToString();
+        item.Text = dr["TenPB"].ToString();
+        list.Add(item);
+    }
+
+}
+
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Danh sách nhân viên </title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="~/css/fonteawsome/fontawesome-free-6.1.1-web/css/all.min.css">
+
+    <link rel="stylesheet" href="~/css/main.css">
+    <link rel="stylesheet" href="~/css/shome.css">
+
+</head>
+<body>
+    <section class="ftco-section">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-12 text-center mb-4">
+                    <h2 class="title">Danh sách nhân viên</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="search">
+                    @using (Html.BeginForm("Show", "NhanVien", FormMethod.Get, new { @class = "contact-form row" }))
+                    {
+                        <div>
+                            <input type="Text" value="@ViewBag.Keyword" name="tennv" placeholder="Nhập tên nhân viên cần tìm" class="input_search">
+                            <button type="submit" class="submit-btn"> Tìm kiếm</button>
+                        </div>
+                    }
+
+                    @using (Html.BeginForm("Show", "NhanVien", FormMethod.Get, new { @class = "contact-form row" }))
+                    {
+                        <div>
+                            @Html.DropDownList("idPhongBan", list, new { @class = "input_search" })
+                            <button type="submit" class="submit-btn"> Tìm kiếm</button>
+                        </div>
+                    }
+
+                    @if (info.IDRoleUser == 1)
+                    {
+                        <div>
+                            <button class="submit-btn "> @Html.ActionLink("Thêm mới", "AddNV", null, new { @class = "add_link" })  </button>
+                        </div>
+                    }
+                </div>
+
+                <div class="col-md-12">
+                    <div class="table-wrap">
+                        <table class="table">
+                            <tr>
+                                <th>ID</th>
+                                <th>Ho Ten</th>
+                                <th>Gioi Tinh</th>
+                                <th>Dia Chi</th>
+                                <th>SDT</th>
+                                <th>Id Phong ban</th>
+                                <th>Chuc vu</th>
+                                <th>Phân quyền</th>
+                                <th>username</th>
+                                <th>password</th>
+                                <th>trang thai</th>
+                                <th>Quyền đăng kí tập thể</th>
+                                @if (info.IDRoleUser == 1)
+                                {
+                                    <th>Edit</th>
+                                    <th>Delete</th>
+                                }
+                            </tr>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    if (item.trangthai == true)
+                                    {
+                                        <tr>
+                                            <td>@item.ID</td>
+                                            <td>@item.HoTen</td>
+                                            @if (@item.GioiTinh)
+                                            {
+                                                <td> Nam </td>
+                                            }
+                                            else
+                                            {
+                                                <td> Nữ</td>
+                                            }
+
+                                            <td>@item.DiaChi</td>
+                                            <td>@item.SDT</td>
+                                            <td>@item.IDPhongBan</td>
+                                            <td>@item.ChucVu</td>
+                                            @if (item.IDrole == 1)
+                                            {
+                                                <td> Admin</td>
+                                            }
+                                            else
+                                            {
+                                                <td> Nhân viên</td>
+                                            }
+                                            <td>@item.username</td>
+                                            <td> @item.upassword</td>
+
+                                            @if (@item.trangthai)
+                                            {
+                                                <td> Hoạt động </td>
+                                            }
+                                            else
+                                            {
+                                                <td> Không hoạt động</td>
+                                            }
+
+                                            @if (item.PhanQuyen)
+                                            {
+                                                <td>  Yes</td>
+                                            }
+                                            else
+                                            {
+                                                <td> No</td>
+                                            }
+                                            @if (info.IDRoleUser == 1)
+                                            {
+                                                <th><a href="@Url.Action("EditNV", "NhanVien" , new { id = item.ID})"> <i class="fa-solid fa-pen-to-square"></i></a></th>
+                                                <th><a href="@Url.Action("Delete", "NhanVien" , new { id = item.ID})"><i class="fa-solid fa-trash-can"></i></a></th>
+                                            }
+
+                                        </tr>
+                                    }
+
+                                }
+                            </tbody>
+
+                        </table>
+                    </div>
+                    <div style="text-align:center">
+                        <!-- Thêm mã phân trang -->
+                        <br />
+                        Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount
+
+                        @Html.PagedListPager(Model, page => Url.Action("Show", new { page, @class = "pagination" }))
+                        <!-- Kết thúc -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+
+</body>
+</html>
+
+

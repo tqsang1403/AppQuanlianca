@@ -1,0 +1,116 @@
+﻿@model List<Quanlicaan.Models.ModelsPage.EdiDkiCaAnModelPage>
+@using Quanlicaan.Models.Framework
+@using Quanlicaan.Models.DAO
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    int j = 1;
+
+    CaAnModel caanmodel = new CaAnModel();
+    List<CaAn> listcaan = caanmodel.GetCaAns();
+
+     var TimeCa1 = listcaan[0].Thoigian;
+     var TimeCa2 = listcaan[1].Thoigian;
+     var TimeCa3 = listcaan[2].Thoigian;
+
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/css/main.css">
+    <link rel="stylesheet" href="~/css/fonteawsome/fontawesome-free-6.1.1-web/css/all.min.css">
+
+    <title>Chỉnh sửa suất ăn cá nhân </title>
+
+</head>
+<body>
+    <script>
+        function show() {
+            alert("Bạn đã cập nhật thành công");
+        }
+
+    </script>
+    <div class="container">
+
+        <h2 class="title" style="margin-top:30px">Chỉnh sửa thông tin đăng kí ca ăn</h2>
+        @using (Html.BeginForm("EditDkiCaanCanhan", "Dangkycaan", FormMethod.Post))
+        {
+            <table class="table table-striped" style="text-align:center">
+                <thead>
+                    <tr>
+                        <th scope="col">STT</th>
+                        <th scope="col">Mã Nhân Viên</th>
+                        <th scope="col">Họ tên nhân viên</th>
+                        <th scope="col"> Chi tiết suất ăn</th>
+                        <th scope="col"> Mã suất ăn</th>
+                        <th scope="col"> Mã ca ăn</th>
+                        <th scope="col">Số lượng</th>
+                        <th scope="col"> Thời gian cập nhật</th>
+                        <th scope="col"> Remove</th>
+
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model.Count == 0)
+                    {
+                        <div style="color:red ; font-size:2.4rem ; font-weight:600 ; text-align:center"> @ViewBag.message</div>
+
+                    }
+
+                    else
+                    {
+                        for (int i = 0; i < Model.Count; i++)
+                        {
+                            <tr>
+                                <th scope="row">@j</th>
+                                <td>
+                                    @Html.HiddenFor(m => Model[i].IDUser)
+                                    @Html.DisplayTextFor(m => m[i].IDUser)
+
+                                </td>
+                                <td>
+                                    @Html.DisplayTextFor(m => Model[i].hoTen)
+                                </td>
+                                <td>
+                                    @Html.HiddenFor(m => Model[i].IDChiTietSuatAn)
+                                    @Html.DisplayTextFor(m => m[i].IDChiTietSuatAn)
+                                </td>
+                                <td>
+                                    @Html.DisplayTextFor(m => Model[i].IDSuatAn)
+                                </td>
+                                <td>
+                                    @Html.DisplayTextFor(m => Model[i].IDCaAn)
+                                </td>
+                                <td>
+                                  
+                                        @Html.TextAreaFor(m => Model[i].Soluong , new { @class = "txt_soluong" })
+                                    
+
+
+                                </td>
+                                <td>
+                                    @Html.DisplayTextFor(m => Model[i].ngayDK.TimeOfDay)
+                                </td>
+                                <td>
+                                    <a href="@Url.Action("Delete", "Dangkycaan" , new { id = Model[i].IDChiTietSuatAn})"> <i class="fa-solid fa-trash-can"></i></a>
+                                </td>
+                            </tr>
+                            j++;
+                        }
+                    }
+
+
+                </tbody>
+            </table>
+            <div class="btn_submit_back">
+                <button type="submit" class="submit-btn" onclick="show()"> Submit </button>
+                <button class="submit-btn "><a class="back" href=" @Url.Action("Home","Home") "> Quay lại</a>  </button>
+            </div>
+        }
+
+    </div>
+
+</body>
+</html>

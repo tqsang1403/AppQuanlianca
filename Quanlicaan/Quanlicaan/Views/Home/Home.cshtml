@@ -1,0 +1,108 @@
+﻿@model List<Quanlicaan.Models.ModelsPage.EdiDkiCaAnModelPage>
+@using Quanlicaan.Models.Session
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var info = (UserSession)Session["UserSession"];
+    int j = 1;
+
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/css/fonteawsome/fontawesome-free-6.1.1-web/css/all.min.css">
+    <link rel="stylesheet" href="~/css/main.css">
+
+</head>
+<body>
+    <script>
+        function show() {
+            alert("Bạn đã cập nhật thành công");
+        }
+
+    </script>
+    <div class="container">
+
+        <h2 class="title" style="margin-top:30px">Chào mừng @info.hoTen đến với ứng dụng quản lí ca ăn  </h2>
+        @using (Html.BeginForm("EditDkiCaanCanhan", "Dangkycaan", FormMethod.Post))
+        {
+            <table class="table table-striped" style="text-align:center">
+                <thead>
+                    <tr>
+                        <th scope="col">STT</th>
+                        <th scope="col">Mã Nhân Viên</th>
+                        <th scope="col">Họ tên nhân viên</th>
+                        <th scope="col"> Chi tiết suất ăn</th>
+                        <th scope="col"> ID suất ăn</th>
+                        <th scope="col"> ID ca ăn</th>
+                        <th scope="col">Số lượng</th>
+                        <th scope="col"> Thời gian cập nhật </th>
+                        <th scope="col"> Chỉnh sửa</th>
+
+
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model.Count == 0)
+                    {
+                        <div style="color:red ; font-size:2.4rem ; font-weight:600 ; text-align:center"> @ViewBag.message</div>
+
+                    }
+
+                    else
+                    {
+                        for (int i = 0; i < Model.Count; i++)
+                        {
+                            <tr>
+                                <th scope="row">@j</th>
+                                <td>
+                                    @Html.HiddenFor(m => Model[i].IDUser)
+                                    @Html.DisplayTextFor(m => m[i].IDUser)
+
+                                </td>
+                                <td>
+                                    @Html.DisplayTextFor(m => Model[i].hoTen)
+                                </td>
+                                <td>
+                                    @Html.HiddenFor(m => Model[i].IDChiTietSuatAn)
+                                    @Html.DisplayTextFor(m => m[i].IDChiTietSuatAn)
+                                </td>
+                                <td>
+                                    @Html.DisplayTextFor(m => Model[i].IDSuatAn)
+                                </td>
+                                <td>
+                                    @Html.DisplayTextFor(m => Model[i].IDCaAn)
+                                </td>
+                                <td>
+                                    @Html.DisplayTextFor(m => @Model[i].Soluong)
+                                </td>
+                                <td>
+                                    @Html.DisplayTextFor(m => Model[i].ngayDK.TimeOfDay)
+                                </td>
+                                <td>
+                                     <a href="@Url.Action("EditDkiCaanCanhan", "Dangkycaan" , new { id = Model[i].IDChiTietSuatAn})"> <i class="fa-solid fa-pen-to-square"></i> </a>
+                                </td>
+                                
+                            </tr>
+                            j++;
+                        }
+                    }
+
+
+                </tbody>
+            </table>
+            <div class="btn_submit_back">
+                <button class="submit-btn"><a class="back" href=" @Url.Action("DkiCanhan","Dangkycaan") "> Đăng kí ca ăn </a></button>
+            </div>
+        }
+
+
+       
+
+
+    </div>
+
+</body>
+</html>

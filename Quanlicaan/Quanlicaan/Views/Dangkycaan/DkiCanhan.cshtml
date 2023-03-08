@@ -1,0 +1,284 @@
+﻿@model Quanlicaan.Models.ModelsPage.DkiCaNhanModelPage
+@{
+    ViewBag.Title = "Đăng ký ca ăn cá nhân";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    int j = 1;
+    var now = DateTime.Now;
+    var message = ViewData["message"] ?? string.Empty;
+    if (@message != "")
+    {
+        <script>alert('@message');</script>
+    }
+
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="~/css/main.css">
+
+</head>
+<body>
+    <div >
+        <style>
+            * {
+                box-sizing: border-box;
+            }
+
+            input[type=submit] {
+                background-color: #58257b;
+                color: white;
+                padding: 12px 20px;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                float: right;
+            }
+
+                input[type=submit]:hover {
+                    background-color: #45a049;
+                }
+
+            .container {
+                border-radius: 5px;
+                background-color: #f2f2f2;
+                padding: 20px;
+            }
+
+            .col-25 {
+                float: left;
+                width: 25%;
+                margin-top: 6px;
+            }
+
+            .col-75 {
+                float: left;
+                width: 75%;
+                margin-top: 6px;
+            }
+
+            .row:after {
+                content: "";
+                display: table;
+                clear: both;
+            }
+
+            input [type=text] {
+                width: 100%;
+            }
+
+            input[type=text] {
+                width: 100%;
+                padding: 12px 20px;
+                margin: 8px 0;
+                box-sizing: border-box;
+            }
+
+            input[type=text] {
+                border: 2px solid purple;
+                border-radius: 4px;
+            }
+
+            input[type=text] {
+                width: 100%;
+                padding: 12px 20px;
+                margin: 8px 0;
+                box-sizing: border-box;
+                border: 3px solid #e9d8f4;
+                -webkit-transition: 0.5s;
+                transition: 0.5s;
+                outline: none;
+            }
+
+                input[type=text]:focus {
+                    border: 3px solid #58257b;
+                }
+
+            input[type=button] {
+                background-color: #e9d8f4;
+                border: none;
+                color: #58257b;
+                padding: 16px 32px;
+                text-decoration: none;
+                margin: 4px 2px;
+                cursor: pointer;
+            }
+
+            input[type=submit] {
+                width: 100%;
+                background-color: #58257b;
+                color: white;
+                padding: 14px 20px;
+                margin: 8px 0;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+
+            label {
+                padding: 12px 12px 12px 0;
+                display: inline-block;
+            }
+        </style>
+        <div class="page-header">
+            <h1 class="title">ĐĂNG KÝ ĂN CA CÁ NHÂN</h1>
+        </div>
+        @using (Html.BeginForm("DkiCanhan", "Dangkycaan", FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
+            <div class="container" style="font-size: 1.2rem;">
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="">
+                    <div class="col-25">
+                        <label class="label">HỌ TÊN</label>
+                    </div>
+                    <div class="col-75">
+                        @Html.DisplayFor(model => model.hoTen, new { htmlAttributes = new { @class = "form-control", disabled = "disabled" } })
+                    </div>
+                </div>
+                <div>
+                    <div class="col-25">
+                        <label class="label">PHÒNG BAN</label>
+                    </div>
+                    <div class="col-75">
+                        @Html.DisplayFor(model => model.phongBan, new { htmlAttributes = new { @class = "form-control", disabled = "disabled" } })
+                    </div>
+                </div>
+                <div>
+                    <div class="col-25">
+                        <label class="label">NGÀY ĐĂNG KÝ</label>
+                    </div>
+                    <div class="col-75">
+                        @Html.DisplayFor(model => model.ngayDK, new { htmlAttributes = new { @class = "form-control", disabled = "disabled" } })
+                    </div>
+
+                </div>
+
+                <table class="table">
+
+                    @* Đăng kí ca ăn ca 1 *@
+                    @if (DateTime.Now.TimeOfDay > Model.TimeCa1.TimeOfDay)
+                    {
+                        <tr>
+                            <td colspan="3" style="color: red;font-weight: 500; font-size: 1.4rem;"> Đã quá thời gian đăng kí ca 1</td>
+
+                        </tr>
+                    }
+                    else
+                    {
+
+                        if (Model.SLCa1 > 0)
+                        {
+                            <tr>
+                                <td style=" color:red ; font-size: 1.4rem;"> Bạn đã đăng kí ca ăn</td>
+                                <td> Ca 1 </td>
+                                <td style="color : #5543ca"> @Html.DisplayFor(model => model.SLCa1, new { id = "ca1", disabled = "disabled" }) <span> Suất ăn</span> </td>
+                            </tr>
+                        }
+                        else
+                        {
+                            <tr>
+                                <td> @Html.CheckBoxFor(model => model.check1, new { id = "box1", onclick = "clickCheck('box1','ca1')" })</td>
+                                <td> Ca 1</td>
+                                <td> @Html.TextAreaFor(model => model.SLCa1, new { id = "ca1", disabled = "disabled" , @class = "txt_soluong" })</td>
+                            </tr>
+                        }
+
+                    }
+
+
+
+
+                    @* Đăng kí ca ăn ca 2 *@
+                    @if (DateTime.Now.TimeOfDay > Model.TimeCa2.TimeOfDay)
+                    {
+                        <tr>
+                            <td style="color: red;font-weight: 500; font-size: 1.4rem;"> Đã quá thời gian đăng kí ca 2</td>
+
+                        </tr>
+                    }
+                    else
+                    {
+                        if (Model.SLCa2 > 0)
+                        {
+                            <tr>
+                                <td style=" color:red ; font-size: 1.4rem;"> Bạn đã đăng kí ca ăn</td>
+                                <td> Ca 2</td>
+                                <td style="color : #5543ca"> @Html.DisplayFor(model => model.SLCa2, new { id = "ca2", disabled = "disabled" }) <span> Suất ăn</span> </td>
+                            </tr>
+                        }
+                        else
+                        {
+                            <tr>
+                                <td>  @Html.CheckBoxFor(model => model.check2, new { id = "box2", onclick = "clickCheck('box2','ca2')" }) </td>
+                                <td> Ca 2</td>
+                                <td> @Html.TextAreaFor(model => model.SLCa2, new { id = "ca2", disabled = "disabled", @class = "txt_soluong" })</td>
+                            </tr>
+                        }
+
+                    }
+
+
+
+
+                    @* Đăng kí ca ăn ca 3 *@
+                    @if (DateTime.Now.TimeOfDay > Model.TimeCa3.TimeOfDay)
+                    {
+                        <tr>
+                            <td style="color: red;font-weight: 500; font-size: 1.4rem;"> Đã quá thời gian đăng kí ca 3</td>
+
+                        </tr>
+                    }
+                    else
+                    {
+                        if (Model.SLCa3 > 0)
+                        {
+                            <tr>
+                                <td style=" color:red ; font-size: 1.4rem;"> Bạn đã đăng kí ca ăn</td>
+                                <td> Ca 3</td>
+                                <td style="color : #5543ca"> @Html.DisplayFor(model => model.SLCa3, new { id = "ca3", disabled = "disabled" }) <span> Suất ăn</span> </td>
+                            </tr>
+                        }
+                        else
+                        {
+                            <tr>
+                                <td>  @Html.CheckBoxFor(model => model.check3, new { id = "box3", onclick = "clickCheck('box3','ca3')" })</td>
+                                <td> Ca 3</td>
+                                <td> @Html.TextAreaFor(model => model.SLCa3, new { id = "ca3", disabled = "disabled", @class = "txt_soluong" })</td>
+                            </tr>
+                        }
+
+
+                    }
+
+                </table>
+
+                 <div class="btn_submit_back">
+                    <button type="submit" class="submit-btn"> Submit </button>
+                    <button class="submit-btn"> <a class="back" href="~/Home/Home">Cancel</a> </button>
+
+                </div>
+
+
+
+            </div>
+        }
+    </div>
+
+
+    <script>
+        function clickCheck(idcheck,idinput) {
+            var idtex = document.getElementById(idinput);
+            var idbox = document.getElementById(idcheck);
+            idtex.disabled = idbox.checked ? false : true;
+            if ( idtex.disabled == false) {
+                idtex.focus();
+            }
+        }
+    </script>
+</body>
+</html>

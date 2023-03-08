@@ -1,0 +1,194 @@
+﻿@model List<Quanlicaan.Models.ModelsPage.DkiCaAnTapTheModelPage>
+@using Quanlicaan.Models.Session
+@using System.Data;
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var info = (UserSession)Session["UserSession"];
+    int a = 1;
+    var now = DateTime.Now;
+
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Tapthe</title>
+    <link rel="stylesheet" href="~/css/main.css">
+
+</head>
+
+
+<body>
+    <div class="d-flex flex-column m-lg-4 " style="padding: 0px 7rem;">
+        <div style="margin-top:30px">
+            <h2 class="title">ĐĂNG KÍ ĂN CA TẬP THỂ</h2>
+        </div>
+        <div class="d-flex justify-content-between px-3" style="margin-bottom:20px">
+            <h4>  Nhân viên đăng kí : @info.hoTen</h4>
+            <h4>  Ngày đăng kí :  @DateTime.Now.ToShortDateString()</h4>
+
+        </div>
+        @using (Html.BeginForm("DkiTapThe", "Dangkycaan", FormMethod.Post))
+        {
+            <table class="table table-bordered">
+                <thead class="thead-dark">
+                    <tr>
+                        <th scope="col">STT</th>
+                        <th scope="col">Mã nhân viên</th>
+                        <th scope="col">Tên nhân viên</th>
+                        <th scope="col">Tên Phòng Ban</th>
+                        <th scope="col">Chọn</th>
+                        <th scope="col">Đăng kí ca ăn</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @for (int k = 0; k < Model.Count; k++)
+                    {
+                        int j = 1;
+                        <tr>
+                            <td>@a</td>
+                            <td>
+                                @Html.HiddenFor(m => Model[k].IDUser)
+                                @Model[k].IDUser
+                            </td>
+                            <td>
+                                @Html.HiddenFor(m => Model[k].hoTen)
+                                @Model[k].hoTen
+                            </td>
+                            <td>
+                                @Html.HiddenFor(m => Model[k].phongBan)
+                                @Model[k].phongBan
+                            </td>
+                            <td>
+                                @Html.CheckBoxFor(model => Model[k].TrangThai, new { id = "checkbbb" })
+                            </td>
+                            <td>
+                                <table>
+                                    @* Đăng kí ca ăn ca 1 *@
+                                    @if (DateTime.Now.TimeOfDay > Model[k].TimeCa1.TimeOfDay)
+                                    {
+                                        <tr>
+                                            <td colspan="3" style="color: red;font-weight: 500; font-size: 1.4rem;"> Đã quá thời gian đăng kí ca 1</td>
+
+                                        </tr>
+                                    }
+                                    else
+                                    {
+
+                                        if (Model[k].SLCa1 > 0)
+                                        {
+                                            <tr style=" display: flex; flex-direction: row; align-items: center;justify-content: space-evenly;">
+                                                <td style=" color:red ; font-size: 1.4rem;"> Bạn đã đăng kí ca ăn</td>
+                                                <td style="font-size: 1.1rem;"> Ca 1 : </td>
+                                                <td style="color : #5543ca ; font-size: 1.1rem;"> @Html.DisplayFor(model => model[k].SLCa1) <span> Suất ăn</span> </td>
+                                            </tr>
+                                        }
+                                        else
+                                        {
+                                            <tr style=" display: flex; flex-direction: row; align-items: center;justify-content: space-evenly;">
+                                                <td> @Html.CheckBoxFor(model => model[k].check1, new { id = "box1", onclick = "clickCheck('box1','ca1')" })</td>
+                                                <td> Ca 1</td>
+                                                <td> @Html.TextAreaFor(model => model[k].SLCa1, new { id = "ca1", @class = "txt_soluong" })</td>
+                                            </tr>
+                                        }
+
+                                    }
+
+
+
+
+                                    @* Đăng kí ca ăn ca 2 *@
+                                    @if (DateTime.Now.TimeOfDay > Model[k].TimeCa2.TimeOfDay)
+                                    {
+                                        <tr>
+                                            <td style="color: red;font-weight: 500; font-size: 1.4rem;"> Đã quá thời gian đăng kí ca 2</td>
+
+                                        </tr>
+                                    }
+                                    else
+                                    {
+
+                                        if (Model[k].SLCa2 > 0)
+                                        {
+                                            <tr style=" display: flex; flex-direction: row; align-items: center;justify-content: space-evenly;">
+                                                <td style=" color:red ; font-size: 1.4rem;"> Bạn đã đăng kí ca ăn </td>
+                                                <td style="font-size: 1.1rem;"> Ca 2 :</td>
+                                                <td style="color : #5543ca ; font-size: 1.1rem;"> @Html.DisplayFor(model => model[k].SLCa2) <span> Suất ăn</span> </td>
+                                            </tr>
+                                        }
+                                        else
+                                        {
+                                            <tr style=" display: flex; flex-direction: row; align-items: center; justify-content: space-evenly;">
+                                                <td>  @Html.CheckBoxFor(model => model[k].check2, new { id = "box2", onclick = "clickCheck('box2','ca2')" }) </td>
+                                                <td> Ca 2</td>
+                                                <td> @Html.TextAreaFor(model => model[k].SLCa2, new { id = "ca2", @class = "txt_soluong" })</td>
+                                            </tr>
+                                        }
+
+                                    }
+
+
+
+
+                                    @* Đăng kí ca ăn ca 3 *@
+                                    @if (DateTime.Now.TimeOfDay > Model[k].TimeCa3.TimeOfDay)
+                                    {
+                                        <tr>
+                                            <td style="color: red;font-weight: 500; font-size: 1.4rem;"> Đã quá thời gian đăng kí ca 3</td>
+
+                                        </tr>
+                                    }
+                                    else
+                                    {
+
+                                        if (Model[k].SLCa3 > 0)
+                                        {
+                                            <tr style=" display: flex; flex-direction: row; align-items: center;    justify-content: space-evenly;">
+                                                <td style=" color:red ; font-size: 1.4rem;"> Bạn đã đăng kí ca ăn</td>
+                                                <td style="font-size: 1.1rem;"> Ca 3 :</td>
+                                                <td style="color : #5543ca ;font-size: 1.1rem;"> @Html.DisplayFor(model => model[k].SLCa3) <span> Suất ăn</span> </td>
+                                            </tr>
+                                        }
+                                        else
+                                        {
+                                            <tr style=" display: flex; flex-direction: row; align-items: center;     justify-content: space-evenly;">
+                                                <td>  @Html.CheckBoxFor(model => model[k].check3, new { id = "box3", onclick = "clickCheck('box3','ca3')" })</td>
+                                                <td> Ca 3</td>
+                                                <td> @Html.TextAreaFor(model => model[k].SLCa3, new { id = "ca3", @class = "txt_soluong" })</td>
+                                            </tr>
+                                        }
+
+
+                                    }
+                                </table>
+                            </td>
+
+                        </tr>
+                        a++;
+                    }
+                </tbody>
+            </table>
+
+            <div class="btn_submit_back">
+                <button type="submit" class="submit-btn">Đăng kí  ca ăn</button>
+                <button class="submit-btn"> <a style="text-decoration:none ; color:white " href="@Url.Action("Home", "Home")">Cance</a></button>
+
+            </div>
+
+        }
+    </div>
+
+    @*<script>
+        function clickCheck(idcheck,idinput) {
+            var idtex = document.getElementById(idinput);
+            var idbox = document.getElementById(idcheck);
+            idtex.disabled = idbox.checked ? false : true;
+            if ( idtex.disabled == false) {
+                idtex.focus();
+            }
+        }
+    </script>*@
+</body>
+</html>

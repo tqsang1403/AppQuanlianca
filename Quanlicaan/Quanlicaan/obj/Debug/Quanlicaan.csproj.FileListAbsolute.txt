@@ -1,0 +1,1228 @@
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\Quanlicaan.dll.config
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\Quanlicaan.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\Quanlicaan.pdb
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\csc.exe
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\csc.exe.config
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\csc.rsp
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\csi.exe
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\csi.exe.config
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\csi.rsp
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.AppContext.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.Collections.Immutable.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.Console.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.Globalization.Calendars.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.Compression.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.FileSystem.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.Net.Http.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.Net.Sockets.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.Reflection.Metadata.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.ValueTuple.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.XPath.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\vbc.exe
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\vbc.exe.config
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\vbc.rsp
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\VBCSCompiler.exe
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\roslyn\VBCSCompiler.exe.config
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\Antlr3.Runtime.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\Microsoft.Web.Infrastructure.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\Newtonsoft.Json.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\System.Web.Helpers.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\System.Web.Mvc.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\System.Web.Optimization.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\System.Web.Razor.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Deployment.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Razor.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\WebGrease.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\System.Web.Helpers.xml
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\System.Web.Mvc.xml
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\System.Web.Optimization.xml
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\System.Web.Razor.xml
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.xml
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Deployment.xml
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Razor.xml
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\Newtonsoft.Json.xml
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\Antlr3.Runtime.pdb
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.AssemblyReference.cache
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.CoreCompileInputs.cache
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.CopyComplete
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.dll
+E:\Tai lieu hoc tap\Training\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.pdb
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\Quanlicaan.dll.config
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\Quanlicaan.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\Quanlicaan.pdb
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\csc.exe
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\csc.exe.config
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\csc.rsp
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\csi.exe
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\csi.exe.config
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\csi.rsp
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.AppContext.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Console.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.Compression.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Net.Http.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.ValueTuple.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\vbc.exe
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\vbc.exe.config
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\vbc.rsp
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\VBCSCompiler.exe
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\Antlr3.Runtime.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\Newtonsoft.Json.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Helpers.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Mvc.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Optimization.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Razor.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Razor.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\WebGrease.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Helpers.xml
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Mvc.xml
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Optimization.xml
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Razor.xml
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.xml
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Razor.xml
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\Newtonsoft.Json.xml
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\Antlr3.Runtime.pdb
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.dll
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.pdb
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Quanlicaan.dll.config
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Quanlicaan.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Quanlicaan.pdb
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\csc.exe
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\csc.exe.config
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\csc.rsp
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\csi.exe
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\csi.exe.config
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\csi.rsp
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.Managed.Core.targets
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.AppContext.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Collections.Immutable.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Console.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Globalization.Calendars.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.Compression.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.FileSystem.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Net.Http.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Net.Sockets.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Reflection.Metadata.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.ValueTuple.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.XmlDocument.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.XPath.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\vbc.exe
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\vbc.exe.config
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\vbc.rsp
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\VBCSCompiler.exe
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\VBCSCompiler.exe.config
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Antlr3.Runtime.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Web.Infrastructure.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Newtonsoft.Json.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Helpers.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Mvc.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Optimization.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Razor.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Deployment.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Razor.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\WebGrease.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Helpers.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Mvc.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Optimization.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Razor.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Deployment.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Razor.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Newtonsoft.Json.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Antlr3.Runtime.pdb
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.AssemblyReference.cache
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.CoreCompileInputs.cache
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.CopyComplete
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.pdb
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\EntityFramework.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\EntityFramework.SqlServer.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\EntityFramework.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\EntityFramework.SqlServer.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.DiaSymReader.Native.x86.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.DiaSymReader.Native.amd64.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\SqlServerTypes\x64\msvcr120.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\SqlServerTypes\x86\msvcr120.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Antiforgery.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authorization.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Cors.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.DataProtection.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.JsonPatch.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Localization.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.Language.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Routing.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.Razor.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.DependencyModel.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileProviders.Composite.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Localization.Abstractions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Localization.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.ObjectPool.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Options.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Primitives.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.WebEncoders.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Net.Http.Headers.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.SqlServer.Types.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Win32.Registry.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Newtonsoft.Json.Bson.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Buffers.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Collections.Immutable.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.ComponentModel.Annotations.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Diagnostics.DiagnosticSource.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Memory.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Numerics.Vectors.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Reflection.Metadata.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Security.AccessControl.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Security.Cryptography.Xml.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Security.Permissions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Security.Principal.Windows.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Text.Encoding.CodePages.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Text.Encodings.Web.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Threading.Tasks.Extensions.dll
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Antiforgery.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authorization.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Cors.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.DataProtection.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.JsonPatch.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Localization.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.Language.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Routing.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.pdb
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.CSharp.pdb
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.CSharp.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.Razor.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileProviders.Composite.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Localization.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Localization.Abstractions.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.ObjectPool.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Options.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Primitives.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.WebEncoders.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Net.Http.Headers.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\Newtonsoft.Json.Bson.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Buffers.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Collections.Immutable.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Diagnostics.DiagnosticSource.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Memory.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Numerics.Vectors.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Reflection.Metadata.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Text.Encodings.Web.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\bin\System.Threading.Tasks.Extensions.xml
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.Properties.Resource1.resources
+E:\GitHub\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.GenerateResource.cache
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\SqlServerTypes\x64\msvcr120.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\SqlServerTypes\x86\msvcr120.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.DiaSymReader.Native.x86.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.DiaSymReader.Native.amd64.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Quanlicaan.dll.config
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Quanlicaan.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Quanlicaan.pdb
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\csc.exe
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\csc.exe.config
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\csc.rsp
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\csi.exe
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\csi.exe.config
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\csi.rsp
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.Managed.Core.targets
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.AppContext.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Collections.Immutable.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Console.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Globalization.Calendars.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.Compression.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.FileSystem.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Net.Http.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Net.Sockets.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Reflection.Metadata.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.ValueTuple.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.XmlDocument.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.XPath.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\vbc.exe
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\vbc.exe.config
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\vbc.rsp
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\VBCSCompiler.exe
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\roslyn\VBCSCompiler.exe.config
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Antlr3.Runtime.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\EntityFramework.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\EntityFramework.SqlServer.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Antiforgery.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authorization.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Cors.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.DataProtection.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.JsonPatch.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Localization.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.Language.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Routing.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.CSharp.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.Razor.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.DependencyModel.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileProviders.Composite.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Localization.Abstractions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Localization.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.ObjectPool.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Options.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Primitives.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.WebEncoders.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Net.Http.Headers.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.SqlServer.Types.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Web.Infrastructure.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Win32.Registry.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Newtonsoft.Json.Bson.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Newtonsoft.Json.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Buffers.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Collections.Immutable.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.ComponentModel.Annotations.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Diagnostics.DiagnosticSource.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Memory.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Numerics.Vectors.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Reflection.Metadata.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Security.AccessControl.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Security.Cryptography.Xml.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Security.Permissions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Security.Principal.Windows.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Text.Encoding.CodePages.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Text.Encodings.Web.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Threading.Tasks.Extensions.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Helpers.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Mvc.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Optimization.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Razor.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Deployment.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Razor.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\WebGrease.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\EntityFramework.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\EntityFramework.SqlServer.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Antiforgery.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authorization.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Cors.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.DataProtection.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.JsonPatch.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Localization.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.Language.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Routing.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.pdb
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.CSharp.pdb
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.CSharp.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.Razor.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileProviders.Composite.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Localization.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Localization.Abstractions.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.ObjectPool.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Options.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Primitives.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.WebEncoders.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.Net.Http.Headers.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Newtonsoft.Json.Bson.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Buffers.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Collections.Immutable.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Diagnostics.DiagnosticSource.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Memory.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Numerics.Vectors.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Reflection.Metadata.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Text.Encodings.Web.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Threading.Tasks.Extensions.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Helpers.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Mvc.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Optimization.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.Razor.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Deployment.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Razor.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Newtonsoft.Json.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Antlr3.Runtime.pdb
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.AssemblyReference.cache
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.Properties.Resource1.resources
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.GenerateResource.cache
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.CoreCompileInputs.cache
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.CopyComplete
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.dll
+E:\THUC TAP\QuanLyCaAn\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.pdb
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.Properties.Resource1.resources
+C:\Users\nguye\OneDrive\Máy tính\QLAC\QLCA\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.GenerateResource.cache
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\SqlServerTypes\x64\msvcr120.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\SqlServerTypes\x86\msvcr120.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.DiaSymReader.Native.x86.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.DiaSymReader.Native.amd64.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Quanlicaan.dll.config
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Quanlicaan.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Quanlicaan.pdb
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\csc.exe
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\csc.exe.config
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\csc.rsp
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\csi.exe
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\csi.exe.config
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\csi.rsp
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.Managed.Core.targets
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.AppContext.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.Collections.Immutable.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.Console.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.Globalization.Calendars.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.Compression.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.FileSystem.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.Net.Http.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.Net.Sockets.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.Reflection.Metadata.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.ValueTuple.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.XmlDocument.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.XPath.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\vbc.exe
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\vbc.exe.config
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\vbc.rsp
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\VBCSCompiler.exe
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\roslyn\VBCSCompiler.exe.config
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Win32.Primitives.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\netstandard.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.AppContext.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Collections.Concurrent.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Collections.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Collections.NonGeneric.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Collections.Specialized.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.ComponentModel.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.ComponentModel.EventBasedAsync.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.ComponentModel.Primitives.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.ComponentModel.TypeConverter.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Console.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Data.Common.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Diagnostics.Contracts.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Diagnostics.Debug.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Diagnostics.FileVersionInfo.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Diagnostics.Process.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Diagnostics.StackTrace.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Diagnostics.TextWriterTraceListener.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Diagnostics.Tools.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Diagnostics.TraceSource.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Diagnostics.Tracing.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Drawing.Primitives.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Dynamic.Runtime.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Globalization.Calendars.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Globalization.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Globalization.Extensions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.IO.Compression.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.IO.Compression.ZipFile.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.IO.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.IO.FileSystem.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.IO.FileSystem.DriveInfo.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.IO.FileSystem.Primitives.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.IO.FileSystem.Watcher.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.IO.IsolatedStorage.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.IO.MemoryMappedFiles.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.IO.Pipes.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.IO.UnmanagedMemoryStream.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Linq.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Linq.Expressions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Linq.Parallel.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Linq.Queryable.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Net.Http.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Net.NameResolution.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Net.NetworkInformation.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Net.Ping.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Net.Primitives.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Net.Requests.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Net.Security.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Net.Sockets.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Net.WebHeaderCollection.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Net.WebSockets.Client.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Net.WebSockets.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.ObjectModel.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Reflection.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Reflection.Extensions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Reflection.Primitives.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Resources.Reader.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Resources.ResourceManager.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Resources.Writer.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Runtime.CompilerServices.VisualC.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Runtime.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Runtime.Extensions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Runtime.Handles.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Runtime.InteropServices.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Runtime.Numerics.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Runtime.Serialization.Formatters.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Runtime.Serialization.Json.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Runtime.Serialization.Primitives.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Runtime.Serialization.Xml.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Security.Claims.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Security.Cryptography.Algorithms.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Security.Cryptography.Csp.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Security.Cryptography.Encoding.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Security.Cryptography.Primitives.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Security.Cryptography.X509Certificates.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Security.Principal.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Security.SecureString.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Text.Encoding.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Text.Encoding.Extensions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Text.RegularExpressions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Threading.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Threading.Overlapped.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Threading.Tasks.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Threading.Tasks.Parallel.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Threading.Thread.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Threading.ThreadPool.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Threading.Timer.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.ValueTuple.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Xml.ReaderWriter.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Xml.XDocument.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Xml.XmlDocument.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Xml.XmlSerializer.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Xml.XPath.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Xml.XPath.XDocument.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Antlr3.Runtime.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\EntityFramework.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\EntityFramework.SqlServer.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Antiforgery.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authentication.Core.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authorization.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Cors.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.DataProtection.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Extensions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Features.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.JsonPatch.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Localization.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Core.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.Language.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Routing.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.WebUtilities.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.CSharp.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.Razor.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.DotNet.PlatformAbstractions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Caching.Abstractions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Caching.Memory.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.DependencyInjection.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.DependencyModel.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileProviders.Composite.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Localization.Abstractions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Localization.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Logging.Abstractions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.ObjectPool.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Options.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Primitives.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.WebEncoders.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Net.Http.Headers.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.SqlServer.Types.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Web.Infrastructure.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Win32.Registry.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Newtonsoft.Json.Bson.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Newtonsoft.Json.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Buffers.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Collections.Immutable.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.ComponentModel.Annotations.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Diagnostics.DiagnosticSource.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Memory.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Numerics.Vectors.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Reflection.Metadata.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Security.AccessControl.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Security.Cryptography.Xml.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Security.Permissions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Security.Principal.Windows.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Text.Encoding.CodePages.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Text.Encodings.Web.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Threading.Tasks.Extensions.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Web.Helpers.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Web.Mvc.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Web.Optimization.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Web.Razor.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Deployment.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Razor.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\WebGrease.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\EntityFramework.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\EntityFramework.SqlServer.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Antiforgery.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authentication.Core.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authorization.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Cors.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.DataProtection.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Extensions.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Features.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.JsonPatch.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Localization.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Core.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.Language.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Routing.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.WebUtilities.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.pdb
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.CSharp.pdb
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.CSharp.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.Razor.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Caching.Abstractions.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Caching.Memory.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.DependencyInjection.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileProviders.Composite.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Localization.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Localization.Abstractions.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Logging.Abstractions.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.ObjectPool.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Options.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Primitives.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.WebEncoders.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.Net.Http.Headers.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Newtonsoft.Json.Bson.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Buffers.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Collections.Immutable.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Diagnostics.DiagnosticSource.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Memory.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Numerics.Vectors.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Reflection.Metadata.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Text.Encodings.Web.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Threading.Tasks.Extensions.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Web.Helpers.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Web.Mvc.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Web.Optimization.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Web.Razor.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Deployment.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Razor.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Newtonsoft.Json.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Antlr3.Runtime.pdb
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.Properties.Resource1.resources
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.GenerateResource.cache
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.CoreCompileInputs.cache
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.CopyComplete
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.pdb
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csprojAssemblyReference.cache
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\PagedList.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\PagedList.Mvc.dll
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\PagedList.xml
+F:\GitHub\QLAC_VT\Quanlicaan\Quanlicaan\bin\PagedList.Mvc.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.DiaSymReader.Native.x86.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.DiaSymReader.Native.amd64.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\SqlServerTypes\x64\msvcr120.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\SqlServerTypes\x86\msvcr120.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Quanlicaan.dll.config
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Quanlicaan.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Quanlicaan.pdb
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\csc.exe
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\csc.exe.config
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\csc.rsp
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\csi.exe
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\csi.exe.config
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\csi.rsp
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.Managed.Core.targets
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.AppContext.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.Collections.Immutable.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.Console.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.Globalization.Calendars.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.Compression.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.FileSystem.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.Net.Http.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.Net.Sockets.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.Reflection.Metadata.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.ValueTuple.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.XmlDocument.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.XPath.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\vbc.exe
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\vbc.exe.config
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\vbc.rsp
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\VBCSCompiler.exe
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\roslyn\VBCSCompiler.exe.config
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Antlr3.Runtime.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\EntityFramework.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\EntityFramework.SqlServer.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Antiforgery.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authorization.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Cors.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.DataProtection.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.JsonPatch.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Localization.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.Language.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Routing.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.CSharp.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.Razor.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.DependencyModel.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileProviders.Composite.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Localization.Abstractions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Localization.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.ObjectPool.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Options.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Primitives.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.WebEncoders.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Net.Http.Headers.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.SqlServer.Types.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Web.Infrastructure.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Win32.Registry.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Newtonsoft.Json.Bson.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Newtonsoft.Json.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\PagedList.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\PagedList.Mvc.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Buffers.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Collections.Immutable.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.ComponentModel.Annotations.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Diagnostics.DiagnosticSource.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Memory.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Numerics.Vectors.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Reflection.Metadata.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Security.AccessControl.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Security.Cryptography.Xml.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Security.Permissions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Security.Principal.Windows.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Text.Encoding.CodePages.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Text.Encodings.Web.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Threading.Tasks.Extensions.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Web.Helpers.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Web.Mvc.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Web.Optimization.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Web.Razor.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Deployment.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Razor.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\WebGrease.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\EntityFramework.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\EntityFramework.SqlServer.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Antiforgery.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authorization.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Cors.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.DataProtection.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.JsonPatch.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Localization.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.Language.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Routing.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.pdb
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.CSharp.pdb
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.CSharp.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.CodeAnalysis.Razor.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileProviders.Composite.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Localization.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Localization.Abstractions.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.ObjectPool.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Options.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.Primitives.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Extensions.WebEncoders.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.Net.Http.Headers.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Newtonsoft.Json.Bson.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\PagedList.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\PagedList.Mvc.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Buffers.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Collections.Immutable.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Diagnostics.DiagnosticSource.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Memory.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Numerics.Vectors.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Reflection.Metadata.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Text.Encodings.Web.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Threading.Tasks.Extensions.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Web.Helpers.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Web.Mvc.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Web.Optimization.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Web.Razor.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Deployment.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\System.Web.WebPages.Razor.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Newtonsoft.Json.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Antlr3.Runtime.pdb
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.AssemblyReference.cache
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.Properties.Resource1.resources
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.GenerateResource.cache
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.CoreCompileInputs.cache
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.csproj.CopyComplete
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.dll
+E:\LEARNING\Nam 4\Đồ án tổng hợp\Quanlicaan\Quanlicaan\obj\Debug\Quanlicaan.pdb
